@@ -386,7 +386,7 @@ body > .ui-select-bootstrap4.open {
 
 .ui-select-multiple.ui-select-bootstrap4 {
   height: auto;
-  padding: 3px 3px 0 3px;
+  padding: 3px 0 0 0;
 }
 
 .ui-select-multiple.ui-select-bootstrap4 input.ui-select-search {
@@ -395,6 +395,10 @@ body > .ui-select-bootstrap4.open {
   outline: none;
   height: 1.666666em;
   margin-bottom: 3px;
+}
+
+.ui-select-bootstrap4 .ui-select-match {
+  padding-left: 3px;
 }
 
 .ui-select-multiple.ui-select-bootstrap4 .ui-select-match .close {
