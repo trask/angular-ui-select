@@ -1,10 +1,10 @@
 {
-  "name": "ui-select",
+  "name": "ui-select-bs4",
   "main": "./index.js",
-  "author": "http://github.com/angular-ui/ui-select/graphs/contributors",
-  "homepage": "http://github.com/angular-ui/ui-select",
+  "author": "https://github.com/bmontgomery/ui-select/graphs/contributors",
+  "homepage": "https://github.com/bmontgomery/ui-select",
   "repository": {
-    "url": "git://github.com/angular-ui/ui-select.git"
+    "url": "git://github.com/bmontgomery/ui-select.git"
   },
   "style": "dist/select.css",
   "version": "0.19.8",
