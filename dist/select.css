@@ -1,7 +1,7 @@
 /*!
  * ui-select-bs4
  * https://github.com/bmontgomery/ui-select
- * Version: 0.19.8 - 2017-06-28T20:11:10.491Z
+ * Version: 0.19.8 - 2017-07-26T13:22:29.868Z
  * License: MIT
  */
 
@@ -508,6 +508,7 @@ body > .ui-select-bootstrap4.open {
   height: 10px;
   right: 10px;
   margin-top: -2px;
+  padding: 3px 10px 0 0;
 }
 
 /* Spinner */
@@ -545,4 +546,8 @@ body > .ui-select-bootstrap4.open {
 
 .ui-select-refreshing.ng-animate {
   -webkit-animation: none 0s;
+}
+
+.ui-select-bootstrap4 .ui-select-placeholder {
+  width: 100%;
 }
