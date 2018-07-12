@@ -1,7 +1,7 @@
 /*!
  * ui-select-bs4
  * https://github.com/bmontgomery/ui-select
- * Version: 0.19.8 - 2017-07-26T13:22:29.606Z
+ * Version: 0.19.8 - 2018-07-12T13:47:16.443Z
  * License: MIT
  */
 
